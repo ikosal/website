@@ -9,9 +9,22 @@ img, media {
 }
 
 body { 
-    background: url(1.jpg) no-repeat center center fixed; 
+    background: url(profilexD.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1{
+    color: cyan;
+    font-size: 70px;
+
 }
